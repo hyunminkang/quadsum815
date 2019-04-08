@@ -1,0 +1,12 @@
+Package: quadsum815
+Type: Package
+Title: Various implementations of quadratic sum
+Version: 1.0
+Date: 2019-01-10
+Author: Hyun Min Kang
+Maintainer: Hyun Min Kang <hmkang@umich.edu>
+Description: This contains various implementations of quadratic sum covered in BIOSTAT815.
+License: GPL-3
+Imports: Rcpp (>= 1.0.0)
+LinkingTo: Rcpp
+RoxygenNote: 6.1.1

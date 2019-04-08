@@ -1,0 +1,3 @@
+useDynLib(quadsum815, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
